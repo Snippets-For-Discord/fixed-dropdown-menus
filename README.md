@@ -20,7 +20,7 @@ git clone https://github.com/Snippets-For-Discord/fixed-dropdown-menus
 ```
 
 **For BetterDiscord:**
-- [Direct Download](https://betterdiscord.net/ghdl?id=)
+- [Direct Download](https://betterdiscord.net/ghdl?id=3567)
 - [View Source](https://raw.githubusercontent.com/Snippets-For-Discord/fixed-dropdown-menus/main/src/support/FixedDropdownMenus.theme.css)
 
 **For Browser / Web:**
