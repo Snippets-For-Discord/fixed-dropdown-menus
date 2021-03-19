@@ -1,0 +1,9 @@
+{
+    "name": "Fixed Dropdown Menus",
+    "description": "Fixes the outdated dropdown menus to match the new ones.",
+    "version": "1.0.0",
+    "author": "LuckFire#4800",
+    "theme": "./src/index.scss",
+    "consent": "false",
+    "license": "MIT"
+}
